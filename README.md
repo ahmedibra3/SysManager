@@ -36,4 +36,4 @@ A Python-based command-line tool for managing users and groups on CentOS. This t
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/user-group-management.git
+   git clone https://github.com/ahmedibra3/SysManager.git
